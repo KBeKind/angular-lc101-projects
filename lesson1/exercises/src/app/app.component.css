@@ -1,0 +1,16 @@
+hr {
+    border-color: #1F2933;
+    box-shadow: 0px 0px 20px #1F2933;
+    border-radius: 2px;
+    border-width: 2px;
+  }
+
+
+#col-border {
+    background-color: #1F2933;
+    box-shadow: inset 0px 0px 20px #60A5FA;
+    border-radius: 20px;
+    margin: 2%;
+}
+
+/* Dark Mode Theme: #1F2933 (Dark Grey), #E4E4E7 (Light Grey), #60A5FA (Blue) */
