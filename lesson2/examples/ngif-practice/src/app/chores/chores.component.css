@@ -16,3 +16,14 @@ img {
     display: block;
     margin: auto;
 }
+
+#work-better {
+    color: rgb(147, 72, 170);
+}
+
+
+h1 {
+    background: linear-gradient(to right, #ff0000, #ff7f00, #ffff00, #00ff00, #0000ff, #8b00ff, #ff0000);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
