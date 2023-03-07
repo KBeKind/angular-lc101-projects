@@ -1,17 +1,15 @@
 h3 {
-    text-decoration: underline;
-    font-style: italic;
-  }
-  
-
-.chores{
-    color:rgb(240, 237, 255);
-    font-family: "Trebuchet MS", Helvetica, sans-serif;
-    font-size: larger;
-    padding: 5%;
-
+  text-decoration: underline;
+  font-style: italic;
 }
 
 
+.chores {
+  background: linear-gradient(to right, #72ff72,#7272fc, rgb(253, 92, 92));
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  font-size: larger;
+  padding: 5%;
 
-
+}

@@ -3,8 +3,9 @@ h3 {
 }
 
 .movies {
-    color: blueviolet;
+    background: linear-gradient(to right, rgb(253, 92, 92), #7272fc, #72ff72);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
     font-size: larger;
     padding: 5%;
 }
-

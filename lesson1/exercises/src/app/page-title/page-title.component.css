@@ -1,4 +1,7 @@
 h1 {
+    background: linear-gradient(to right, #7272fc, #72ff72, #7272fc);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
     text-align: center;
     text-decoration: underline;
 }
